@@ -1,0 +1,1 @@
+suma <- sum(Amazon_Sale_Report$Amount)
